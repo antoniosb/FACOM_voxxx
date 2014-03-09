@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Voxxx Annoyingmeter</string>
+    <string name="splash_text"> follow @xtrdev </string>
+    <string name="splash_content_description"> voxx logo</string>
+    <string name="title_activity_voxx_recorder">Voxx Annoyingmeter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ui_default_timer">--:--</string>
+    <string name="button_start_recording">Start collecting annoying sound</string>
+    <string name="button_stop_recording">Stop  collecting annoying sound</string>
+    <string name="button_start_playing">Start annoying playback</string>
+    <string name="button_stop_playing">Stop  annoying playback</string>
+    <string name="no_recording_done">Please do a recording before analyzing it!</string>
+    <string name="title_activity_voxxx_score">Voxxx Annoyingmeter</string>
+    <string name="score_before_show_msg"> Wait until we figure this out . . . </string>
+    <string name="do_it_again">Do it again!</string>
+    <string name="button_shared"> Check out the score !</string>
+    <string name="exit">eXit</string>
+
+</resources>
